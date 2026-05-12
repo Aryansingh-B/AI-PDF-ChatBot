@@ -2,4 +2,5 @@
 uploaded_pdfs/
 faiss_index/
 __pycache__/
-*.pyc
+*.pycvenv
+venv/
